@@ -1,0 +1,12 @@
+bin/
+lib/
+include/
+src/
+pip-selfcheck.json
+
+*.docx
+*~
+__pycache__/
+
+db.sqlite3
+

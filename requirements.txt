@@ -1,0 +1,4 @@
+Django==2.0.4
+lxml==4.2.1
+python-docx==0.8.6
+pytz==2018.4
